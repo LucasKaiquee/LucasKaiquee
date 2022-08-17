@@ -1,4 +1,4 @@
-<h2 align="left">Olá! 🙋‍♂️ Me chamo Lucas Kaique...</h2>
+<h2 align="center">Olá! 🙋‍♂️ Me chamo Lucas Kaique...</h2>
 
 ###
 
