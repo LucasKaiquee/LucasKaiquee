@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">Quem sou ? 🤔<br><br>⏳ | Tenho 21 anos;<br>📚 | Estudo desenvolvimento web;<br>📘 | Atualmente estudando React e node;<br>💻 | Focado principalmente no front end;<br>🚀 | Busco evoluir a cada dia;<br>🎯 | Motivado por desafios.</h3>
+<h3 align="left">Quem sou ? 🤔<br><br>⏳ | Tenho 21 anos;<br>📚 | Estudo desenvolvimento web;<br>📘 | Atualmente estudando React e TypeScript;<br>💻 | Desenvolvedor front end;<br>🚀 | Busco evoluir a cada dia;<br>🎯 | Motivado por desafios.</h3>
 
 ###
 
