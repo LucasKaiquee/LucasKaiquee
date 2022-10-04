@@ -31,7 +31,7 @@
   <a href="https://www.linkedin.com/in/lucaskaique/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-    <a href="https://lucaskaiquee.github.io/Potifolio-pessoal/" target="_blank">
+    <a href="https://lucaskaiquee.github.io/Portfolio-pessoal/" target="_blank">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" height="35" alt="Portifolio"  />
   </a>
   <a href="mailto:lucaskaique743@gmail.com" target="_blank">
