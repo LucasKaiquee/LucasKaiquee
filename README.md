@@ -10,11 +10,13 @@
 
 ###
 
-<h3 align="left">Quem sou ? 🤔<br><br>⏳ | Tenho 21 anos;<br>📚  | Atualmente estudando React e TypeScript;<br>💻 | Desenvolvedor front end;<br>🚀 | Busco evoluir a cada dia;<br>🎯 | Motivado por desafios.</h3>
+<h3 align="left"><br><br>⏳ | Tenho 21 anos;<br>📚  | Atualmente estudando React e TypeScript;<br>💻 | Desenvolvedor front end;<br>🚀 | Busco evoluir a cada dia;<br>🎯 | Motivado por desafios.</h3>
 
 ###
+###
+###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -26,8 +28,9 @@
 </div>
 
 ###
+###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/lucaskaique/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
