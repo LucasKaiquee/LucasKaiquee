@@ -10,7 +10,9 @@
 
 ###
 
-<h3 align="left"><br><br>⏳ | Tenho 21 anos;<br>📚  | Atualmente estudando React e TypeScript;<br>💻 | Desenvolvedor front end;<br>🚀 | Busco evoluir a cada dia;<br>🎯 | Motivado por desafios.</h3>
+<h3 align="left"><br><br>⏳ | Graduando em Sistemas para Internet;<br>📚  | Atualmente estudando React e TypeScript;<br>💻 | Desenvolvedor front end;<br>🚀 | Busco evoluir a cada dia.</h3>
+  
+ <br>
 
 ###
 ###
