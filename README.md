@@ -57,7 +57,7 @@ Git, GitHub, AWS, Firebase, Docker, Figma
 
 ### 🚀 Estagiário em RPA  
 **COMPASS.UOL**  
-*Maio 2025 – Dezembro 2025*
+*Maio 2025 – Outubro 2025*
 
 - Participação em equipes ágeis utilizando **Scrum**.  
 - Desenvolvimento de automações com **Automation Anywhere**.  
